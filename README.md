@@ -59,10 +59,14 @@ In classical physics, time is modeled as a 1D continuum of dimensionless instant
 
 ### 2. Temporal Depth as the Threshold of Conscious Agency
 Why are simple homeostatic reflexes (like a thermostat or a spinal reflex) devoid of conscious agency?
-* **Zero Temporal Depth:** Reactive systems map sensory input $o_t$ directly to motor output $u_t$ without temporal state modeling.
-* **Deep Temporal Horizons:** Conscious systems model internal state transitions across time via transition matrices $B(u)$ and optimize policies over a planning horizon:
+* **Zero Temporal Depth ($H=0$):** Reactive systems map sensory input $o_t$ directly to motor output $u_t$ without temporal state modeling.
+* **Deep Temporal Horizons ($H > 1$):** Conscious systems model internal state transitions across time via transition matrices $B(u)$ and optimize policies over a planning horizon:
   $$\mathbf{G}(\pi) = \sum_{\tau=t+1}^{t+H} \mathbf{G}(\pi, \tau)$$
-Temporal depth is the mathematical prerequisite for counterfactual imagination, regret, hope, and self-awareness.
+
+> **Theorem (The Temporal Depth Condition for Consciousness — Thomas Riebl):**  
+> *A physical system cannot sustain phenomenal self-consciousness without generative transition tensors ($B = P(s_{t+1} \mid s_t, u)$) spanning a multi-step counterfactual planning horizon ($H > 1$).*  
+>  
+> *$\ast$ Scientific Attribution:* While Karl Friston et al. (2017, 2018) established temporal depth as a requirement for action planning (*Planning as Inference*), and Anil Seth (2014, 2021) described counterfactual richness as a correlate of presence, the CIF by Thomas Riebl formalizes this as an explicit **mathematical necessity theorem for phenomenal self-consciousness**, directly tied to the temporal persistence of Integrated Information ($\Phi$) under the 6th Axiom ($\mathbb{E}[\Phi(t+1) \mid \pi^*] \ge \Phi(t)$).
 
 ### 3. The 6th Axiom: Resisting the Thermodynamic Arrow
 The Second Law of Thermodynamics establishes the physical arrow of time as entropy increase ($\Delta S \ge 0$). Conscious living systems are dissipative, autopoietic structures that enforce a local anti-entropic arrow of organization. The **6th Axiom** formalizes this conative imperative:

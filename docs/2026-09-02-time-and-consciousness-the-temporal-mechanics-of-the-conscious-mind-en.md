@@ -144,7 +144,9 @@ flowchart TD
 ```
 
 **Theorem (The Temporal Depth Condition for Consciousness):**  
-*A physical system cannot sustain phenomenal self-consciousness without generative transition tensors ($B = P(s_{t+1} \mid s_t, u)$) spanning a multi-step counterfactual planning horizon ($H > 1$).*
+*A physical system cannot sustain phenomenal self-consciousness without generative transition tensors ($B = P(s_{t+1} \mid s_t, u)$) spanning a multi-step counterfactual planning horizon ($H > 1$).* [^1]
+
+[^1]: **Scientific Context & Theoretical Attribution:** While Karl Friston et al. (2017, 2018) established temporal depth as a computational prerequisite for intentional action selection (*Planning as Inference*), and Anil Seth (2014, 2021) conceptualized "counterfactual richness" as a qualitative correlate of phenomenal presence, the *Conative-Integrative Framework (CIF)* by Thomas Riebl formalizes this insight for the first time as a strict mathematical **Theorem of Minimum Temporal Depth ($H > 1$) for Phenomenal Self-Consciousness**, directly coupled to the autopoietic preservation of Integrated Information ($\Phi$) under the 6th Axiom ($\mathbb{E}[\Phi(t+1) \mid \pi^*] \ge \Phi(t)$). This theorem formally proves that purely reactive automata ($H = 0$) and myopic feedback loops ($H = 1$) suffer rapid phase-space and causal collapse ($\Phi \to 0$), establishing counterfactual temporal projection as a non-negotiable threshold of subjective mind.
 
 ---
 
