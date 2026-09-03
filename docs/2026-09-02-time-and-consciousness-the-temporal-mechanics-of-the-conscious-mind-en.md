@@ -236,3 +236,20 @@ Time and consciousness are not two independent entities meeting by chance. **Tim
 12. **Schopenhauer, A. (1819).** *Die Welt als Wille und Vorstellung.* F. A. Brockhaus.
 13. **Tononi, G., Boly, M., Massimini, M., & Koch, C. (2016).** *Integrated information theory: from consciousness to its physical substrate.* Nature Reviews Neuroscience, 17(7), 450–461.
 14. **Tononi, G., Albantakis, L., et al. (2023).** *Integrated Information Theory (IIT) 4.0: Formulating the Properties of Phenomenal Existence in Causal Terms.* PLOS Computational Biology, 19(10), e1011465.
+
+---
+
+## Tool Attribution & Colophon
+
+> [!NOTE]
+> **Tooling Colophon:**  
+> This theoretical treatise, philosophical architecture, and scientific synthesis were conceptualized and authored by **Thomas Riebl** (Luxembourg) as part of **The Conative-Integrative Framework (CIF)**.  
+> The conceptual formulation, structural structuring, vector diagram styling, and multi-format document compilation (Word `.docx`, Print-Ready A4 Portrait PDF, and Markdown) were developed with the assistance of **Google Gemini (Antigravity Advanced Agentic Coding System)** (September 2026).
+
+---
+
+### Vault & Repository References
+* **Repository:** [`https://github.com/Thriebl/time-and-consciousness`](https://github.com/Thriebl/time-and-consciousness)
+* **Master Framework Paper (CIF):** [`/home/thr/Documents/The_Conative_Integrative_Framework_Thomas_Riebl.pdf`](file:///home/thr/Documents/The_Conative_Integrative_Framework_Thomas_Riebl.pdf)
+* **Vault Archive:** [`/home/thr/Documents/ThRNotes/03-professional/braindumps/`](file:///home/thr/Documents/ThRNotes/03-professional/braindumps/)
+

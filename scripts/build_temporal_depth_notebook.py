@@ -415,12 +415,28 @@ plt.show()
    * Without temporal modeling ($B = I$), agents fall into deceptive short-term attractors ($s_{\\text{trap}}$), leading to an autopoietic survival rate of only $\\mathbf{36.7\\%}$ and systemic causal collapse ($\\Phi \\to 0$).
 2. **Epistemic Exploration through Deep Counterfactual Horizons ($H = 4$):**
    * Deep temporal agents proactively execute **epistemic exploratory detours** ($s_{\\text{cue}}$) to resolve environmental ambiguity before navigating to homeostatic goals, achieving $\\mathbf{100\\%}$ survival and sustaining high integrated causal power ($\\Phi \\approx 0.18$).
-3. **Rigorous Confirmation of the 6th Axiom:**
    * Active inference over deep temporal models satisfies the 6th Axiom of Consciousness:
      $$\\mathbb{E}\\Big[\\Phi(t+1) \\;\\Big|\\; \\pi^*\\Big] \\ge \\Phi(t) \\quad (\\Phi > 0)$$
-   * Counterfactual temporal depth is the indispensable mechanism through which living consciousness resists the physical arrow of thermodynamic entropy ($\Delta S \\ge 0$).
-"""
+   * Counterfactual temporal depth is the indispensable mechanism through which living consciousness resists the physical arrow of thermodynamic entropy ($\\Delta S \\ge 0$)."""
     cell_sec6_md = nbf.v4.new_markdown_cell(sec6_md)
+
+    # Section 7: Tool Attribution & Colophon
+    colophon_md = """---
+
+## Tool Attribution & Colophon
+
+> **Tooling Colophon:**  
+> This theoretical treatise, simulation methodology, and scientific synthesis were conceptualized and authored by **Thomas Riebl** (Luxembourg) as part of **The Conative-Integrative Framework (CIF)**.  
+> The conceptual formulation, mathematical modeling, simulation scripts, vector diagrams, and multi-format document compilation (Word `.docx`, Print-Ready A4 Portrait PDF, and Jupyter Notebooks) were developed with the assistance of **Google Gemini (Antigravity Advanced Agentic Coding System)** (September 2026).
+
+---
+
+### Vault & Repository References
+* **Repository:** [`https://github.com/Thriebl/time-and-consciousness`](https://github.com/Thriebl/time-and-consciousness)
+* **Master Framework Paper (CIF):** [`/home/thr/Documents/The_Conative_Integrative_Framework_Thomas_Riebl.pdf`](file:///home/thr/Documents/The_Conative_Integrative_Framework_Thomas_Riebl.pdf)
+* **Vault Archive:** [`/home/thr/Documents/ThRNotes/03-professional/braindumps/`](file:///home/thr/Documents/ThRNotes/03-professional/braindumps/)
+"""
+    cell_colophon = nbf.v4.new_markdown_cell(colophon_md)
 
     nb.cells = [
         cell_intro,
@@ -436,7 +452,8 @@ plt.show()
         cell_sec4_code,
         cell_sec5_md,
         cell_sec5_code,
-        cell_sec6_md
+        cell_sec6_md,
+        cell_colophon
     ]
 
     nb_file = "/home/thr/Documents/time-and-consciousness/notebooks/Deep_Temporal_Active_Inference_Simulation.ipynb"
