@@ -74,6 +74,16 @@ $$\mathbb{E}\Big[\Phi(t+1) \;\Big|\; \pi^*\Big] \ge \Phi(t) \quad (\text{with } 
 
 ---
 
+## 📖 The Complete CIF Monograph & Agent Model
+
+This research is an integral part of the broader **Conative-Integrative Framework (CIF)**:
+* 🏛️ **Primary CIF Repository:** [github.com/Thriebl/active-inference-phi-network](https://github.com/Thriebl/active-inference-phi-network)
+* 📕 **Complete Book Manuscript (10 Chapters):** [`book/manuscript_en/`](https://github.com/Thriebl/active-inference-phi-network/tree/main/book/manuscript_en)
+* 💻 **Chapter 7 (Deep Temporal Active Inference Agent):** [`07_computational_verification_and_monte_carlo.md`](https://github.com/Thriebl/active-inference-phi-network/blob/main/book/manuscript_en/07_computational_verification_and_monte_carlo.md)
+* ➰ **Standalone GNN Agent Package:** [`cif_gnn_model_package/`](https://github.com/Thriebl/active-inference-phi-network/tree/main/cif_gnn_model_package)
+
+---
+
 ## Repository Structure
 
 ```text
